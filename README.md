@@ -4,7 +4,7 @@
 
 # Writeups
 
-| CTF                        | Место   | Команда               | Exploitation         | Links     |
-|:--------------------------:|:-----------:|--------------------|----------------------|:---------:|
-| [HackOsint 2024](HackOsint-2024)| 1/260 | Avebo: 1 | `GOT` `format string` `libc database` | [CTFtime](https://ctftime.org/event/757) [Writeups](https://ctftime.org/event/757/tasks/) [Archives](https://github.com/sajjadium/ctf-archives/tree/master/ctfs/UTCTF/2019) |
-| [BSidesSF 2019](ctfs/BSidesSF/2019)| [slowfire](ctfs/BSidesSF/2019/slowfire) | `x86_64` `Partial RELRO` `ASLR` | `GOT` `PLT` `shellcode` `socket` `stack overflow` `syscall` | [CTFtime](https://ctftime.org/event/753) [Writeups](https://ctftime.org/event/753/tasks/) [Archives](https://github.com/sajjadium/ctf-archives/tree/master/ctfs/BSidesSF/2019) |
+| CTF                        | Место   | Команда| Ссылки на турнир     |
+|:--------------------------:|:-----------:|----------------------|:---------:|
+| [HackOsint 2024](HackOsint-2024)| **ТОП 1** из 260 команд | **Avebo**: [rolegiv](https://github.com/rolegiv)  [w33d](https://github.com/w3irdd) [pyatno](https://github.com/pyatno) | [HackOsint2024](https://hackosint.net/) |
+
