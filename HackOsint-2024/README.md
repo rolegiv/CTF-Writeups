@@ -7,6 +7,7 @@
 - [Let's Play](LetsPlay)
 - [Билибизяка](Билибизяка)
 - [SomDef](SomDef) FB
+- [IDK](IDK)
 
 # Итоговая турнирная таблица
 
