@@ -6,6 +6,7 @@
 - [Discard](Discard)
 - [Let's Play](LetsPlay)
 - [Билибизяка](Билибизяка)
+- [SomDef](SomDef)
 
 # Итоговая турнирная таблица
 
