@@ -1,4 +1,4 @@
-# Гейоинт. Ой, что я сказал... (Форензика, Hard) by Денис
+# Гейоинт. Ой, что я сказал... (Форензика, Hard) by [pyatno](https://github.com/pyatno)
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/866cbd1d-6473-41cd-a356-b5823402709c)
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/7413e08a-f9bc-4aea-9633-749c7232176b)
