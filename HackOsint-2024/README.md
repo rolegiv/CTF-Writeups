@@ -1,10 +1,13 @@
 # Решение тасков от нашей команды
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/20d64767-59ba-4632-888c-66222c845474)
 
+**Misc**
 - [ФигВам](ФигВам)
 - [Не Вижу](НеВижу) FB
 - [Discard](Discard)
 - [Let's Play](LetsPlay)
+
+**Crypto**
 - [Билибизяка](Билибизяка)
 - [SomDef](SomDef) FB
 - [IDK](IDK)
