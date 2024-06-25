@@ -8,4 +8,4 @@
 
 # Флаг
 
-B0NU${St3Re0Gr4M}
+**B0NU${St3Re0Gr4M}**
