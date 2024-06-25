@@ -1,4 +1,4 @@
-# SomDef (Криптография, Easy) by [w33d](https://github.com/w3irdd)
+# SomDef (Криптография, Easy) by [w33d](https://github.com/w3irdd) (First blood - Gold)
 
 Шифротекст:
 
