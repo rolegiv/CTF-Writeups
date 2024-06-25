@@ -1,4 +1,4 @@
-# Тык-тык (Криптография, Medium) by [w33d](https://github.com/w3irdd)
+# Тык-тык (Криптография, Medium) by [w33d](https://github.com/w3irdd) (First blood - Gold)
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/6b3d792b-1d05-44bd-9cee-5c2151b52e47)
 
