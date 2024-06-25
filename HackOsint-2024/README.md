@@ -15,8 +15,8 @@
 - [NumNum](NumNum) FB
 
 **Web**
-- [Infinity](Infinity) FB
-- КАЛИКУЛЯТОР НАДО НАПИСАТЬ
+- [Infinity](Infinity) FB 
+- [Каликулятар](Каликулятар) 
 
 **Reverse**
 - [Не ешь,подумой](Неешь,подумой)
