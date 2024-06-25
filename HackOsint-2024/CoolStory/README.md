@@ -1,4 +1,4 @@
-# CoolStory (Форензика, Medium+) by Денис
+# CoolStory (Форензика, Medium+) by [pyatno](https://github.com/pyatno) (First blood - Silver)
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/c9a9bd6c-bc34-4992-ae82-cab222cb8e6f)
 
