@@ -1,4 +1,4 @@
-# NumNum (Криптография, Hard) by [w33d](https://github.com/w3irdd)
+# NumNum (Криптография, Hard) by [w33d](https://github.com/w3irdd) (First blood - Silver)
 
 Шифротекст:
 
