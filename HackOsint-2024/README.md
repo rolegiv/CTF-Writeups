@@ -4,6 +4,11 @@
 - [ФигВам](ФигВам)
 - [Не Вижу](НеВижу) FB
 
+# Итоговая турнирная таблица
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/a0823e07-2155-4c97-b596-83148a2b8de1)
+
+
 # Общая информация о турнире
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/1b3c8f4d-b232-4f2d-afac-1c85cfb1cbd5)
