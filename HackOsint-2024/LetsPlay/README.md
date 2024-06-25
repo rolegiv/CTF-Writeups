@@ -8,7 +8,7 @@
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/bf0c2ca2-a60f-4e97-a6c2-690c909f5139)
 
-Видимо подсказку – нужно сгореть на костре. Умираем.
+Видим подсказку – нужно сгореть на костре. Умираем.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/a344384e-65b7-4bbd-82e1-cc31f55e5d5a)
 
