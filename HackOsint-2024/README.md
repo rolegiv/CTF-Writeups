@@ -4,7 +4,7 @@
 - [ФигВам](ФигВам)
 - [Не Вижу](НеВижу) FB
 - [Discard](Discard)
-- [Let's Play](Letsplay)
+- [Let's Play](LetsPlay)
 
 # Итоговая турнирная таблица
 
