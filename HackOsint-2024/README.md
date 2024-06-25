@@ -12,6 +12,7 @@
 - [SomDef](SomDef) FB
 - [IDK](IDK)
 - [Тык-тык](Тык-тык) FB
+- [NumNum](NumNum) FB
 
 # Итоговая турнирная таблица
 
