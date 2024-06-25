@@ -26,6 +26,7 @@
 **Forensics** 
 - [CoolStory](CoolStory) FB
 - [ОлдСкуф](ОлдСкуф) FB
+- [GeoInt](GeoInt)
 
 # Итоговая турнирная таблица
 
