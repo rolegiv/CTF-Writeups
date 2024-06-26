@@ -1,5 +1,12 @@
 # Твистер Джуниор (RE, Easy) by [w33d](https://github.com/w3irdd) (First blood - Bronze)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/20a42ecb-1622-49a3-9cdc-3218085cb068)
+
+
+# Решение
+
 После запуска, программа ничего не делает, но ждет чего-то на ввод. Дизассемблируем.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/41069be2-b7ef-4c1b-a957-ea1df87cefb5)
