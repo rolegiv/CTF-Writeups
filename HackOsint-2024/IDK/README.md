@@ -17,7 +17,7 @@ Ils7CnNDN0gaZxkFVjEFVjZZJ1hyVgcrHFYTKhVBKwknUjYQAyIDBRcjExMwFjdOfDonIVAPGTFWWDwW
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/03172f90-5260-426d-a1bf-5c40769eb512)
 
-Так же один из инструментов решения после окончания CTF был предложен одним из организаторов [FazaN](https://github.com/CyberFazaN) там в полуавтоматическом режиме можно подбирать ключ - [XOR_KPA]((https://github.com/CyberFazaN/XOR_KPA/)
+Так же один из инструментов решения после окончания CTF был предложен одним из организаторов [FazaN](https://github.com/CyberFazaN) там в полуавтоматическом режиме можно подбирать ключ - [XOR_KPA](https://github.com/CyberFazaN/XOR_KPA)
 
 # Флаг
 **B0NU${x0R_cRyP70@n4L1sy$_KP4}**
