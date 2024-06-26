@@ -1,5 +1,11 @@
 # Discard (Misc, Easy) by Awebo
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/daab22c9-7f9a-4ec6-8b01-60ead808e179)
+
+# Решение
+
 Шифротекст:
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/b4497eb8-2fa5-4d06-8fad-25164af28231)
