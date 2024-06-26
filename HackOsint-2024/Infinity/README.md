@@ -1,5 +1,11 @@
 # Infinity (Web, Medium) by [rolegiv](https://github.com/rolegiv) (First blood - Gold)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/ba7dfcb5-d344-4822-9586-c267ecaed92f)
+
+# Решение
+
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/9a73d001-ed96-464c-9c4d-7619219404b4)
 
 
