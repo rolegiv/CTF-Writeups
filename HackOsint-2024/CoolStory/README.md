@@ -1,6 +1,10 @@
 # CoolStory (Форензика, Medium+) by [pyatno](https://github.com/pyatno) (First blood - Silver)
 
-![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/c9a9bd6c-bc34-4992-ae82-cab222cb8e6f)
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/79ce05ca-8029-4f9c-bfb0-d2b417f11ea2)
+
+# Решение
 
 Правильно подбираем google dork intext:"хакер" "vpn" "ВПН" "универ" "карты"
 
