@@ -1,5 +1,11 @@
 # Триггеред (RE, Medium+) by [w33d](https://github.com/w3irdd)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/0bb8ed9e-235a-4e49-92fe-33454eb91e3c)
+
+# Решение
+
 Начинаем реверсить. Пройдясь дебагом, находим функцию, которая вызывает BSOD.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/7bb71491-0c9c-477d-b43f-8d0a5dc701b3)
