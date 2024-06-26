@@ -1,5 +1,11 @@
 # Не вижу (Misc, Easy) by [pyatno](https://github.com/pyatno) (First blood - Bronze)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/2cfcdc8a-9a93-4568-83e2-2c3792cafa45)
+
+# Решение
+
 Сразу видим, что это стереограмма
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/8a6ad3ea-7c45-40a5-a3c2-0c544df704a5)
