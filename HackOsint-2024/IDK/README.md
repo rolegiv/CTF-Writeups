@@ -1,5 +1,11 @@
 # IDK (Криптография, Hard) by [rolegiv](https://github.com/rolegiv)  [w33d](https://github.com/w3irdd)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/68290b11-e583-42e2-a600-7c8b6a410062)
+
+# Решение
+
 Открываем файл, видим сигнатуру JPEG. Меняем расширение файла.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/43a41b30-ec54-4b1d-baf9-21c541ad0da0)
