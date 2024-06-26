@@ -1,5 +1,12 @@
 # Не ешь, подумой (RE, Medium+) by [w33d](https://github.com/w3irdd)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/6eaefd10-c2fc-47c9-a29d-936f191368db)
+
+
+# Решение
+
 Вот, что мы видим при запуске.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/59cdc002-87ff-4083-92b1-fa32b361721f)
