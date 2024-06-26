@@ -1,5 +1,11 @@
 # Let’s Play! (Misc, Easy) by [w33d](https://github.com/w3irdd) [pyatno](https://github.com/pyatno)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/fd9bb205-d059-410b-812d-115a699d2d2c)
+
+# Решение
+
 Видим в скачанной папке файлы. Воспользовавшись жизненным опытом, понимаем, что это мир из майнкрафта.
 
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/8e109aca-bcc5-4e87-8b23-5e9b7f4aa712)
