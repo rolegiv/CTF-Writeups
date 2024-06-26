@@ -1,5 +1,11 @@
 # ФигВам (Misc, Easy) by [w33d](https://github.com/w3irdd)
 
+# Задание
+
+![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/97473c08-a7c5-4009-9031-6bd0302b7ce8)
+
+
+# Решение
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/203ad3fe-1d81-49b0-8ceb-26b333bfd118)
 
 Здесь картинка с фигой. Проваливаемся внутрь и находим ссылку на проект в Figma.
